@@ -1,25 +1,30 @@
-<p><strong>BY:</strong> CHOUDHARY ANIKET</p>
-<p><strong>ROLL NO:</strong> 30</p>
+# 💻 PHP e-Portfolio – BCA Semester VI
 
-<p><strong>WEBSITE LINK:</strong> 
-<a href="https://aniketcms.free.nf" target="_blank">aniketcms.free.nf</a>
-</p>
+> A complete e-Portfolio showcasing my practical skills in PHP, MySQL, and Web Development.
 
-<p><strong>Choose roles as per your choice:</strong></p>
+---
 
-<ul>
-  <li><strong>Director</strong><br>
-      Username: director@college.edu<br>
-      Password: password
-  </li>
-  
-  <li><strong>Faculty</strong><br>
-      Username: faculty@college.edu<br>
-      Password: password
-  </li>
-  
-  <li><strong>Student</strong><br>
-      Username: student@college.edu<br>
-      Password: password
-  </li>
-</ul>
+## 👨‍💻 About Me
+Hi, I'm **Aniket Choudhary**  
+🎓 BCA Semester VI Student  
+💡 Passionate about Web Development & Programming  
+
+This e-Portfolio represents my learning journey in PHP, including hands-on experiments and a mini project.
+
+---
+
+## 🌐 Live Website
+🔗 https://aniketcms.free.nf  
+
+---
+
+## 🚀 Features of This Portfolio
+- 📌 Clean and responsive UI
+- 📌 PHP + MySQL integration
+- 📌 Real-world mini project
+- 📌 Organized experiments with explanation
+- 📌 Professional structure for placements
+
+---
+
+## 📂 Portfolio Structure

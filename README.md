@@ -49,27 +49,22 @@ This e-Portfolio represents my learning journey in PHP, including hands-on exper
 ---
 
 ## 📸 Screenshots
-```md
+
 
 ![Login Page]
-<img width="1918" height="1091" alt="image" src="https://github.com/user-attachments/assets/5e12f78e-e65a-42b1-84a7-ceb2a493d6a1" />
-🔐 Demo Credentials
-Role	Username	Password
-Director	director@college.edu
-	password
-Faculty	faculty@college.edu
-	password
-Student	student@college.edu
-	password
+
+
 
 ![Dashboard]
-<img width="1919" height="1092" alt="Screenshot 2026-03-19 214622" src="https://github.com/user-attachments/assets/79f0c711-192a-4ddb-9f9f-62844cf7f934" />
+
+
 
 ![Student management]
-<img width="1873" height="1090" alt="Screenshot 2026-03-19 214611" src="https://github.com/user-attachments/assets/05798075-a232-4a9d-b000-3ae7ca7cf9d3" />
+
+
 
 ![Fees Management]
-<img width="1919" height="1090" alt="Screenshot 2026-03-19 214540" src="https://github.com/user-attachments/assets/fcdde892-b2df-473a-8abd-bd177333b73c" />
+
 
 
 ## 🧠 Technical Skills

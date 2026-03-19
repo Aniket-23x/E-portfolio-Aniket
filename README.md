@@ -1,8 +1,8 @@
-#BY : CHOUDHARY ANIKET
-ROLL NO : 30 
+BY : CHOUDHARY ANIKET \br
+ROLL NO : 30 \br
 
 WEBSITE LINK : aniketcms.free.nf
-
+\br
 choose roles as per your choice :
 
 1) Director    Username  : director@college.edu

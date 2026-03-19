@@ -50,19 +50,17 @@ This e-Portfolio represents my learning journey in PHP, including hands-on exper
 
 ## 📸 Screenshots
 
+#Login page
+![Login Page](image/Login%20page.png)
 
-![Login Page](image/Director Dashboard.png)
+#Director Dashboard
+![Director Dashboard](image/Director%20Dashboard.png)
 
+#Student Management
+![Student management](image/Student%20Management.png)
 
-![Dashboard]
-
-
-
-![Student management]
-
-
-
-![Fees Management]
+#Fees Management
+![Fees Management](image/Fees%20Management.png)
 
 
 

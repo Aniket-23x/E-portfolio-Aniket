@@ -1,15 +1,25 @@
-BY : CHOUDHARY ANIKET /br
-ROLL NO : 30 \br
+<p><strong>BY:</strong> CHOUDHARY ANIKET</p>
+<p><strong>ROLL NO:</strong> 30</p>
 
-WEBSITE LINK : aniketcms.free.nf
-\br
-choose roles as per your choice :
+<p><strong>WEBSITE LINK:</strong> 
+<a href="https://aniketcms.free.nf" target="_blank">aniketcms.free.nf</a>
+</p>
 
-1) Director    Username  : director@college.edu
-               Password : password
+<p><strong>Choose roles as per your choice:</strong></p>
 
-2) Faculty    Username  : faculty@college.edu
-               Password : password
-
-3) Student   Username  : student@college.edu
-               Password : password
+<ul>
+  <li><strong>Director</strong><br>
+      Username: director@college.edu<br>
+      Password: password
+  </li>
+  
+  <li><strong>Faculty</strong><br>
+      Username: faculty@college.edu<br>
+      Password: password
+  </li>
+  
+  <li><strong>Student</strong><br>
+      Username: student@college.edu<br>
+      Password: password
+  </li>
+</ul>

@@ -51,8 +51,7 @@ This e-Portfolio represents my learning journey in PHP, including hands-on exper
 ## 📸 Screenshots
 
 
-![Login Page]
-
+![Login Page](image/Director Dashboard.png)
 
 
 ![Dashboard]

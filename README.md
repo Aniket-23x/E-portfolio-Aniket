@@ -1,4 +1,4 @@
-# 💻 PHP e-Portfolio – BCA Semester VI
+# 💻 PHP (CHOUDHARYANIKET_30_A ) – BCA Semester VI
 
 > A complete e-Portfolio showcasing my practical skills in PHP, MySQL, and Web Development.
 
